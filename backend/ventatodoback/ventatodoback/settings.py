@@ -80,7 +80,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'ventatodoback.wsgi.application'
 
 CORS_ALLOWED_ORIGINS = [
-    'https://https://venta-todo.netlify.app',
+    'https://reliable-chebakia-11bd8a.netlify.app',
     'http://localhost:5173',
     'http://127.0.0.1:5173',
 ]
